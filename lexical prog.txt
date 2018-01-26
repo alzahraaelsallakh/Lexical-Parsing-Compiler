@@ -1,0 +1,6 @@
+int main  () {
+int a,b,0c=0;
+c = a+b;
+&
+return;	
+}
