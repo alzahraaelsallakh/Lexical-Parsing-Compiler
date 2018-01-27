@@ -2,9 +2,11 @@
 a simple lexical and parsing phases of a compiler.
 
 **lexixal Phase**
+
 The language consists of keywords, identifiers, constants, operators and symbols. Others are invalid.
 
 **Syntax Phase**
+
 The Grammar:
     S >> int T
     T >> * int T | + int T | epsilon
