@@ -1,7 +1,7 @@
 # simple_compiler-C
 a simple lexical and parsing phases of a compiler.
 
-**lexixal Phase**
+**lexical Phase**
 
 The language consists of keywords, identifiers, constants, operators and symbols. Others are invalid.
 
