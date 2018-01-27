@@ -9,6 +9,7 @@ The language consists of keywords, identifiers, constants, operators and symbols
 
 The Grammar:
     S >> int T
+    
     T >> * int T | + int T | epsilon
     
 The code works on the tokens that results out of the lexical phase.
