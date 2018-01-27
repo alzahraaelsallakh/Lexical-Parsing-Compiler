@@ -8,6 +8,7 @@ The language consists of keywords, identifiers, constants, operators and symbols
 **Syntax Phase**
 
 The Grammar:
+
     S >> int T
     
     T >> * int T | + int T | epsilon
